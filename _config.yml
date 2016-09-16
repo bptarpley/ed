@@ -2,7 +2,7 @@
 
 # Setup
 title:               w00t!
-tagline:             'Eatin' biscuits and tea, yo.'
+tagline:             'Eatin\' biscuits and tea, yo.'
 description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
 url:                 'http://bptarpley.github.io'
 baseurl:             '/ed'
